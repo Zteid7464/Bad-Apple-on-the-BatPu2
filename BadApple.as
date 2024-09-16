@@ -1,0 +1,1085 @@
+LDI r10 240
+LDI r11 241
+LDI r12 242
+LDI r13 245
+LDI r14 246
+STR r14 r0 r0
+LDI r1 25
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 24
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 24
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 24
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+STR r13 r0 r0
+STR r14 r0 r0
+LDI r1 31
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+STR r13 r0 r0
+STR r14 r0 r0
+LDI r1 31
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+STR r13 r0 r0
+STR r14 r0 r0
+LDI r1 31
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+STR r13 r0 r0
+STR r14 r0 r0
+LDI r1 31
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+STR r13 r0 r0
+STR r14 r0 r0
+LDI r1 31
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+STR r13 r0 r0
+STR r14 r0 r0
+LDI r1 31
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 31
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 30
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 29
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 28
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 24
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 24
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 24
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 24
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 23
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 31
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 30
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 29
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 28
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 27
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 26
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 25
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+LDI r1 22
+LDI r2 24
+STR r10 r1 r0
+STR r11 r2 r0
+STR r12 r0 r0
+STR r13 r0 r0
+HLT
